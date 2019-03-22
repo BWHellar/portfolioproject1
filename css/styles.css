@@ -6,9 +6,11 @@ h2{
 
 h1 {
   font-size: 55px;
+  color: black;
 }
 a {
-  font-family: impact;
+  font-family: verdana;
+  color: black;
 }
 
 p,
@@ -22,6 +24,7 @@ li{
   background-image: url("../images/representingme.jpg");
   background-size: cover;
   background-position: center;
+  border-radius: 25px;
 }
 .container {
   background-color: #ffffff00;
@@ -37,14 +40,21 @@ li{
   min-height: 5px;
   padding: -15px;
   width: 100%;
+  border-radius: 25px;
 }
 
 .row {
 }
 
+.sidenav {
+  float: left;
+  width: 15px;
+  font-size: 15px;
+}
 .panel-heading {
   background-color: #80bfff77;
   margin: 10px;
+  border-radius: 25px;
 }
 
 .panel-title {
@@ -61,8 +71,25 @@ body {
 
 .purpose {
   text-shadow: 2px 2px #999999;
+  text-decoration: underline;
 }
 
-#jumbotext {
-  color: black;
+h3 {
+  font-size: 15px;
+  margin-left: 20px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.btn-info {
+  width: 80px;
+  height: 25px;
+  margin-top: 10px;
+  font-size: 11px;
+  text-align: center;
+  margin-left: 8px;
+}
+
+button {
+  opacity: .5;
 }
