@@ -16,7 +16,10 @@ li{
 
 
 .jumbotron {
-  background-color: #8080ff55;
+  background-image: url("../images/representingme.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: .5;
 }
 .container {
   background-color: #ffffff00;
@@ -56,4 +59,9 @@ body {
 
 .purpose {
   text-shadow: 2px 2px #999999;
+}
+
+#jumbotext {
+  opacity: 1000;
+  color: red;
 }
