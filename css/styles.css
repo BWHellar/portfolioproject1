@@ -1,10 +1,12 @@
 h1 {
   text-align: center;
-  background-color: red;
 }
 
+.jumbotron {
+  background-color: #8080ff55;
+}
 .container {
-  background-color: blue;
+  background-color: #ffffff00;
   position: relative;
   width: 90%;
   padding: 20px;
@@ -13,19 +15,17 @@ h1 {
 
 .col-md-4 {
   position: relative;
-  background-color: green;
-  outline-color: pink;
+  background-color: #b3b3b333;
   min-height: 5px;
   padding: -15px;
   width: 100%;
 }
 
 .row {
-  background-color: orange;
 }
 
 .panel-heading {
-  background-color: teal;
+  background-color: #80bfff77;
   margin: 10px;
 }
 
@@ -34,7 +34,8 @@ h1 {
 }
 
 body {
-  background-image: url(../images/Background.jpg);
+  background-color: #e8eefd;
+  background-image: url(../images/backgrounds.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
