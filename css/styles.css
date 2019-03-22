@@ -6,12 +6,18 @@ h1 {
 .container {
   background-color: blue;
   position: relative;
+  width: 90%;
+  padding: 20px;
+  top: -15px;
 }
 
-.col-xs-4 {
+.col-md-4 {
   position: relative;
-  float: right;
   background-color: green;
+  outline-color: pink;
+  min-height: 5px;
+  padding: -15px;
+  width: 100%;
 }
 
 .row {
@@ -20,4 +26,16 @@ h1 {
 
 .panel-heading {
   background-color: teal;
+  margin: 10px;
+}
+
+.panel-title {
+  text-align: center;
+}
+
+body {
+  background-image: url(../images/Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
