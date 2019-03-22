@@ -4,6 +4,9 @@ h2{
   font-family: verdana;
 }
 
+h1 {
+  font-size: 55px;
+}
 a {
   font-family: impact;
 }
@@ -19,7 +22,6 @@ li{
   background-image: url("../images/representingme.jpg");
   background-size: cover;
   background-position: center;
-  opacity: .5;
 }
 .container {
   background-color: #ffffff00;
@@ -62,6 +64,5 @@ body {
 }
 
 #jumbotext {
-  opacity: 1000;
-  color: red;
+  color: black;
 }
