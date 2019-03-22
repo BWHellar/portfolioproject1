@@ -8,9 +8,11 @@ h1 {
   font-size: 55px;
   color: black;
 }
+
 a {
   font-family: verdana;
   color: black;
+  text-decoration: underline;
 }
 
 p,
@@ -19,7 +21,6 @@ li{
   font-size: 15px;
 }
 
-
 .jumbotron {
   background-image: url("../images/brendan.jpg");
   background-size: cover;
@@ -27,6 +28,7 @@ li{
   border-radius: 25px;
   text-shadow: 4px 4px #99999977;
 }
+
 .container {
   background-color: #ffffff00;
   position: relative;
@@ -44,14 +46,12 @@ li{
   border-radius: 25px;
 }
 
-.row {
-}
-
 .sidenav {
   float: left;
   width: 15px;
   font-size: 15px;
 }
+
 .panel-heading {
   background-color: #80bfff77;
   margin: 10px;
