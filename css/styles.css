@@ -1,6 +1,19 @@
-h1 {
+h1,
+h2{
   text-align: center;
+  font-family: verdana;
 }
+
+a {
+  font-family: impact;
+}
+
+p,
+li{
+  font-family: verdana;
+  font-size: 15px;
+}
+
 
 .jumbotron {
   background-color: #8080ff55;
@@ -39,4 +52,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+.purpose {
+  text-shadow: 2px 2px #999999;
 }
