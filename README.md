@@ -5,7 +5,7 @@
 
 ## Description
 
-This project will utilize all the skills that were learned over the entire week.  This will showcase my ability to use HTML and CSS in conjunction with each other.  In addition to this, this will show how I am able to link to and use Bootstrap elements in a project.  This project acts as landing page for any future and expanding portfolios additions I may acquire.
+This project will utilize all the skills that were learned over the entire week.  This will showcase my ability to use HTML and CSS in conjunction with each other.  In addition to this, this will show how I am able to link to and use Bootstrap elements in a project.  This project acts as landing page for any future and expanding portfolios additions I may acquire.  This portfolio page will allow for the user to contact me on multiple platforms, look through my past Github projects, know about me, my hobbies, and my future projects.
 
 ## Setup/Installation Requirements
 
