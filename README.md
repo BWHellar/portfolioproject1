@@ -1,7 +1,7 @@
 # First Friday Project
 
 #### This application is to showcase our skills in a solo project, 3/22/19
-#### By _**{List of contributors}**_
+#### By _**Brendan Hellar**_
 
 ## Description
 
