@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  background-color: red;
+}
+
+.container {
+  background-color: blue;
+  position: relative;
+}
+
+.col-xs-4 {
+  position: relative;
+  float: right;
+  background-color: green;
+}
+
+.row {
+  background-color: orange;
+}
+
+.panel-heading {
+  background-color: teal;
+}
