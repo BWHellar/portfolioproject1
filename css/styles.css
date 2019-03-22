@@ -21,10 +21,11 @@ li{
 
 
 .jumbotron {
-  background-image: url("../images/representingme.jpg");
+  background-image: url("../images/brendan.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: b;
   border-radius: 25px;
+  text-shadow: 4px 4px #99999977;
 }
 .container {
   background-color: #ffffff00;
@@ -70,7 +71,6 @@ body {
 }
 
 .purpose {
-  text-shadow: 2px 2px #999999;
   text-decoration: underline;
 }
 
