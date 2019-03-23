@@ -1,11 +1,11 @@
-# First Friday Project
+# Master Framework 1
 
-#### This application is to showcase our skills in a solo project, 3/22/19
+#### This project will provide a framework for future side projects, 3/23/19
 #### By _**Brendan Hellar**_
 
 ## Description
 
-This project will utilize all the skills that were learned over the entire week.  This will showcase my ability to use HTML and CSS in conjunction with each other.  In addition to this, this will show how I am able to link to and use Bootstrap elements in a project.  This project acts as landing page for any future and expanding portfolios additions I may acquire.  This portfolio page will allow for the user to contact me on multiple platforms, look through my past Github projects, know about me, my hobbies, and my future projects.
+The point of this project is to strip down existing elements into a functional framework.  This framework will provide the ability to port it into future projects that may require a row and column setup.
 
 ## Setup/Installation Requirements
 
@@ -31,4 +31,4 @@ HTML and CSS
 
 MIT
 
-Copyright (c) 2016 **Brendan Hellar**
+Copyright (c) 2019 **Brendan Hellar**
