@@ -1,5 +1,5 @@
 # First Friday Project
-https://bwhellar.github.io/portfolioproject1/
+
 
 #### This application is to showcase our skills in a solo project, 3/22/19
 #### By _**Brendan Hellar**_
@@ -10,8 +10,8 @@ This project will utilize all the skills that were learned over the entire week.
 
 ## Setup/Installation Requirements
 
-* Start the Internet
-* Click on the link provided
+* Clone this repository https://bwhellar.github.io/portfolioproject1/
+* Click on the link provided with your browser of choice
 
 
 This app requires the internet as it uses HTMl and CSS.
